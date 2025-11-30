@@ -1,0 +1,41 @@
+.CardAbout {
+    color: rgb(244, 208, 239) !important;
+  background-color: #ba6db9;
+  border-radius: 20px;
+  text-align: center;
+    box-shadow: 30px 30px 30px rgba(99, 3, 86, 0.1)!important;
+
+}
+.buttonAbout {
+  background-color: #069a0e!important;
+  color: white;
+  border: none !important;
+  border-radius: 20px !important;
+  cursor: pointer;
+  font-size: 16px;
+  transition: background-color 0.3s ease;
+
+}
+.buttonAbout:hover {
+    opacity: 0.8    !important;
+  background-color: #0cc25e!important;
+  transform: scale(1.2)    !important;
+}   
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,14 @@
+.F {
+  background-color: #FFB6C1;
+  height: 50px;
+  display: flex;               
+  align-items: center;
+  justify-content: center;
+  font-size: 18px;
+  color: rgb(144, 6, 114);
+      position:fixed;       
+  bottom: 0;
+  left: 0;
+  width: 100%;
+ 
+}

@@ -1,0 +1,42 @@
+.boutonCard {
+    background-color: #4CAF50 !important; 
+    border: none !important;
+    color: white;
+    padding: 10px 24px;
+    text-align: center;
+   font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    border-radius: 12px;
+    transition: 0.3s ease;
+}
+.boutonCard:hover {
+    background-color: #07ed07 !important; 
+    transform: scale(1.1);
+}
+.title {
+  font-size: 1.2rem !important;
+  font-weight: bold;
+  color: #01b537 !important; 
+  text-align: center;
+  margin-bottom: 0.5rem;
+}
+.text {
+  font-size: 1rem;
+  color: #bb0c75; 
+  line-height: 1.5;
+  text-align: justify;
+  margin-bottom: 1rem;
+}
+
+.Cardcheck {
+  background-color: #fff !important;
+  box-shadow: 20px 20px 20px rgba(115, 3, 135, 0.15) !important;
+  transition: transform 0.8s ease, box-shadow 0.3s ease;
+ width: 18rem;       
+  max-height: 400px;
+}
+.Cardcheck:hover{
+  transform: scale(1.2); 
+
+}

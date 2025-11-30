@@ -1,0 +1,21 @@
+.Gauche {
+   color: rgb(9, 147, 20);
+   padding: 100px;
+   padding-top: 120px;
+   padding-left: 100px!important;
+   margin-bottom: 50px;
+   font-size: larger;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    flex: 1;
+     height: 200px;
+    }
+    .Droite {
+    flex: 1;
+  height: 200px;
+    }
+ .carousel-item img {
+  margin-top: 50px;
+  height: 200px;         
+  object-fit: cover; 
+  border-radius: 10px;   
+}
